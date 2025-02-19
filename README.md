@@ -1,5 +1,7 @@
 <div align="center">
+
 # Spider-Man Multiverse Website
+
 <img src="/assets/images/tobey-maguire/movie-01/logo.png">
 
 About the Project
