@@ -1,10 +1,11 @@
 <div align="center">
-#Spider-Man Multiverse Website
+# Spider-Man Multiverse Website
 <img src="/assets/images/tobey-maguire/movie-01/logo.png">
 
 About the Project
 
 This project is a comprehensive website dedicated to Spider-Man, covering all movies, actors, directors, release years, and much more. It serves as an ultimate resource for fans who want to explore the entire cinematic history of Spider-Man.
+</div>
 
 # Features
 
@@ -54,4 +55,3 @@ Push to the branch (git push origin feature-branch).
 
 Open a Pull Request.
 
-</div>
