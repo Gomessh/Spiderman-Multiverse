@@ -43,7 +43,7 @@ cd Spiderman-Multiverse
 
 3. Open the index.html file in your browser or use a local development server.
 
-Contributing
+# Contributing
 
 If you want to contribute:
 
